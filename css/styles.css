@@ -161,16 +161,14 @@ button {
   gap: 40px;
 }
 
-.menu-item {
-  padding: 24px 0;
-}
-
 .list-address {
   display: flex;
   gap: 40px;
 }
 
 .menu-link {
+  padding: 24px 0;
+
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
