@@ -159,6 +159,9 @@ button {
 .menu {
   display: flex;
   gap: 40px;
+}
+
+.menu-item {
   padding: 24px 0;
 }
 
